@@ -12,6 +12,11 @@
 ## 论文资料
 
 ## 答辩PPT
+答辩模板视频演示 + 真实答辩案例PPT
+- 1、	答辩PPT文档
+  -  1.1 通用项目答辩PPT模板
+    <br> B站台地址演示:<a href ="https://b23.tv/aa9VFgK" >传送门</a>
+    <br> 文档获取地址:<a href ="https://mbd.pub/o/bread/mbd-YZWTk5dpZw==" >传送门</a>
 
 ## 答辩问题
 答辩问题【一万字完整文档答案获取链接】：<a href ="https://mbd.pub/o/bread/mbd-ZpaXmZlx" >传送门</a> 
