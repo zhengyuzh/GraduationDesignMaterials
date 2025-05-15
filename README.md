@@ -17,6 +17,11 @@
   -  1.1 通用项目答辩PPT模板
     <br> B站台地址演示:<a href ="https://b23.tv/aa9VFgK" >传送门</a>
     <br> 文档获取地址:<a href ="https://mbd.pub/o/bread/mbd-YZWTk5dpZw==" >传送门</a>
+    
+- 2、	答辩PPT编写说明
+  -  2.1 答辩PPT真实案例、优秀答辩。答辩老师都夸奖我了！！！
+     <br> 从选题背景与意义、研究方法与思路、实现效果及应用、系统总结与未来规划等几个方面介绍说明。每个如何如何写，有哪些注意的地方都做了详细说明。还有对应的答辩PPT。
+     <br> 文章地址:<a href ="https://mp.weixin.qq.com/s/aXCvshtU6Ygao3qsL7sALA" >传送门</a>
 
 ## 答辩问题
 答辩问题【一万字完整文档答案获取链接】：<a href ="https://mbd.pub/o/bread/mbd-ZpaXmZlx" >传送门</a> 
