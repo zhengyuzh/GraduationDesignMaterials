@@ -27,7 +27,13 @@
   -  4.1 项目代码获取
     <br>项目代码:<a href ="https://github.com/zhengyuzh/Mental-health-management-system" >GitHub传送门</a>
     <br>数据库脚本+项目代码:<a href ="https://mbd.pub/o/bread/mbd-ZJuZm5ty" >传送门</a>
-    
+
+## 系统功能开发说明
+介绍常见功能的开发、包含核心代码讲解部分、数据库表设计等相关实战案例
+- 1、	刷题小程序
+  -  1.1 数据库设计说明
+    <br> 文章介绍地址:<a href ="https://mp.weixin.qq.com/s/cMY7t4SKD-fixT8cIr266g" >传送门</a>
+ 
 ## 系统讲解
 这个文档可以帮你更好的了解你的项目，轻松应答老师询问的相关代码问题？
  <br>完整项目地址：<a href ="https://mbd.pub/o/bread/mbd-aJqclZdq" >传送门</a>
