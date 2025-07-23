@@ -5,7 +5,7 @@
 
 ## 开题报告
 
-## 系统源码
+## 系统源码【毕设设计】
 计算机毕业设计系统源码+数据库脚本。每个项目都有对应的部署教程和实现效果页面截图。大家需要的话，可以参考学习，不懂的可以添加我询问。底部给出了联系方式~~~
 
 - 1、	美妆商城系统 SpringBoot + Vue 【毕业设计系统】
@@ -27,7 +27,11 @@
   -  4.1 项目代码获取
     <br>项目代码:<a href ="https://github.com/zhengyuzh/Mental-health-management-system" >GitHub传送门</a>
     <br>数据库脚本+项目代码:<a href ="https://mbd.pub/o/bread/mbd-ZJuZm5ty" >传送门</a>
-
+- 5、	大学生心理健康管理系统【毕业设计系统】
+  -  5.1 项目代码获取
+    <br>项目介绍:<a href ="https://mp.weixin.qq.com/s/U6n599Yj8spdfdZg50bNXQ" >公众号文章传送门</a>
+    <br>数据库脚本+项目代码:<a href ="https://mbd.pub/o/bread/mbd-YZWVmZ9uZw" >传送门</a>
+    <br>效果演示:<a href ="https://b23.tv/TbsdkvO" >B站传送门</a>
 ## 系统功能开发说明
 介绍常见功能的开发、包含核心代码讲解部分、数据库表设计等相关实战案例
 - 1、	刷题小程序
