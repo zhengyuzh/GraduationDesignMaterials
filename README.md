@@ -7,31 +7,41 @@
 
 ## 系统源码【毕设设计】
 计算机毕业设计系统源码+数据库脚本。每个项目都有对应的部署教程和实现效果页面截图。大家需要的话，可以参考学习，不懂的可以添加我询问。底部给出了联系方式~~~
-
+各个项目都可以在原有项目的基础上添加或者修改功能，需要的可以联系本人。
 - 1、	美妆商城系统 SpringBoot + Vue 【毕业设计系统】
-  -  1.1 项目代码获取
+  -  1.1 项目代码获取 （纯个人手搓）
     <br>项目代码:<a href ="https://github.com/zhengyuzh/meizhuangshop" >GitHub传送门</a>
     <br>数据库脚本+项目代码:<a href ="https://mbd.pub/o/bread/mbd-ZJmbmZpp" >传送门</a>
     
 - 2、	美妆商城系统 SpringBoot+Vue + 协同过滤算法 + 敏感词过滤（额外添加来个算法）【毕业设计系统】
-  -  2.1 项目代码获取
+  -  2.1 项目代码获取 （纯个人手搓）
     <br>项目代码:<a href ="https://github.com/zhengyuzh/mzshop" >GitHub传送门</a>
     <br>数据库脚本+项目代码:<a href ="https://mbd.pub/o/bread/mbd-YZWTkp1yaA==" >传送门</a>
     
 - 3、	商城系统：前后端分离SpringBoot+Vue。【毕业设计系统】
-  -  3.1 项目代码获取
+  -  3.1 项目代码获取 （纯个人手搓）
     <br>项目代码:<a href ="https://github.com/zhengyuzh/mallsystem" >GitHub传送门</a>
     <br>数据库脚本+项目代码:<a href ="https://mbd.pub/o/bread/mbd-ZpaXlJtt" >传送门</a>
     
 - 4、	大学生心理健康管理系统【毕业设计系统】
-  -  4.1 项目代码获取
+  -  4.1 项目代码获取 （纯个人手搓）
     <br>项目代码:<a href ="https://github.com/zhengyuzh/Mental-health-management-system" >GitHub传送门</a>
     <br>数据库脚本+项目代码:<a href ="https://mbd.pub/o/bread/mbd-ZJuZm5ty" >传送门</a>
+    
 - 5、	大学生心理健康管理系统【毕业设计系统】
-  -  5.1 项目代码获取
+  -  5.1 项目代码获取 （纯个人手搓）
     <br>项目介绍:<a href ="https://mp.weixin.qq.com/s/U6n599Yj8spdfdZg50bNXQ" >公众号文章传送门</a>
     <br>数据库脚本+项目代码:<a href ="https://mbd.pub/o/bread/mbd-YZWVmZ9uZw" >传送门</a>
     <br>效果演示:<a href ="https://b23.tv/TbsdkvO" >B站传送门</a>
+    
+- 6、	基于SpringBoot+Vue+Redis+Mybatis-plus+微信小程序 前后端分离书籍借阅系统的设计与实现【毕业设计系统】
+  -  6.1 项目代码获取（纯个人手搓）
+    <br>项目介绍:<a href ="https://github.com/zhengyuzh/Book-borrowing-system" >GitHub地址</a>
+    <br>项目介绍:<a href ="https://mp.weixin.qq.com/s/ClxZ4nfYhoAyVKioyQRP4g" >公众号地址</a>
+    <br>数据库脚本+项目代码+开发文档:<a href ="https://mbd.pub/o/bread/mbd-YZWWlpdpZw==" >传送门</a>
+    <br>小程序效果演示:<a href ="https://b23.tv/W5aamvT" >B站传送门</a>
+    <br>后台效果演示:<a href ="https://b23.tv/Ew0rX2z" >B站传送门</a>
+    
 ## 系统功能开发说明
 介绍常见功能的开发、包含核心代码讲解部分、数据库表设计等相关实战案例
 - 1、	刷题小程序
