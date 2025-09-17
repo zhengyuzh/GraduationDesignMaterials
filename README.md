@@ -1,9 +1,27 @@
 # 计算机毕业设计资料
-- 包含的内容：计算机选题、开题报告、系统源码、系统讲解、论文资料、答辩PPT等
+- 包含的内容：计算机选题、开题报告、开发框架说明、系统源码、系统讲解、论文资料、答辩PPT等
 
 ## 计算机毕业设计选题
 
 ## 开题报告
+
+## 开发框架（详细说明）
+
+- 1、<a href ="https://mp.weixin.qq.com/s/AkpImdLKQFJrpscT2LSTKQ" >SpringBoot 、Vue、Redis、Shiro、Mybatis 等常见毕设开发框架说明，框架的基本概念以及作用</a>
+- 2、<a href ="https://mp.weixin.qq.com/s/8jGPbknH9V2cLDuknd-cFQ" >毕业设计必看：SSM 框架 VS Spring Boot 框架全解析！</a>
+- 3、<a href ="https://mp.weixin.qq.com/s/Fo9lHPe-aT_UZ8JbZFT39Q" >SSM 框架完全指南（深入版）</a>
+
+
+## 开发环境安装说明（安装包 + 文档说明 + 视频演示）
+- 1、	jdk1.8 的安装(Windows系统)
+  -  1.1 安装包获取
+    <br> <a href ="https://mp.weixin.qq.com/s/ZOaIoJB9ECk-yLF72LJNcQ" >传送门</a>
+  -  1.2 安装文档说明
+    <br> <a href ="https://mp.weixin.qq.com/s/ZOaIoJB9ECk-yLF72LJNcQ" >传送门</a>
+  -  1.3 安装视频
+    <br> <a href ="https://b23.tv/DO16rAL" >B站视频演示</a>
+ 
+
 
 ## 创新功能（创新点）
 - 1、	接入大模型，实现对话功能
